@@ -62,3 +62,30 @@ body{
     background-position: center center;
     background-repeat: no-repeat;
 }
+
+.transact-btn{
+    background-color: #FF4E00;
+    border:1px solid #8B2B00;
+    color: white;
+}
+
+/* Card: Paymet Card*/
+.payment-card{
+    display: none;
+}
+
+/* Card: Transfer Card*/
+.transfer-card{
+    display: none;
+}
+/* Card: Deposit Card*/
+.deposit-card{
+    display: none;
+}
+/* Card: Withdraw Card*/
+.withdraw-card{
+    display: none;
+}
+
+
+
