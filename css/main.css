@@ -6,6 +6,11 @@
 body{
     background-color: rgb(211, 217, 226);
 }
+
+.contanier{
+    margin: 10px auto;
+}
+
 /*Main Page Header*/
 .main-page-header{
     padding: 10px 0px;
@@ -50,3 +55,10 @@ body{
     color: white;
 }
 
+/*Offcanvas Background*/
+.offcanvas{
+    background-image: url(../images/images.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
